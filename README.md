@@ -1,2 +1,2 @@
-# Personal Project
+# Homework & Experiment in XDU SE
 
